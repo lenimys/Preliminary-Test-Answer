@@ -1,0 +1,2 @@
+Tools yang digunakan adalah Microsoft Excel.
+Probabilitas yang digunakan ialah binomial mengapa binomial karena kasus yang ingin diselesaikan ingin menemukan bagaimana probabilitas dari total produk yang dijual. 

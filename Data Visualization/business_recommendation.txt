@@ -1,0 +1,1 @@
+Untuk meningkatkan business kulina dapat menambahkan beberapa sebuah event makanan dengan tema. Contohnya: Pada bulan ini ada 1 hari dimana semua makanan dijual dengan makanan khas daerah. Sehingga customer juga bisa memakan makanan dari daerah lain. Dari hal ini bisa ditarik juga jika banyak customer yang tertarik bisa dijadikan event rutin kulina untuk menarik customer.
